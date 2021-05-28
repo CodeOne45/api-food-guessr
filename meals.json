@@ -1,0 +1,31 @@
+{
+  "apiMeal": [
+    {
+      "idMeal": "1",
+      "strMeal": "blabla",
+      "strCategory": "blabla",
+      "strArea": "French",
+      "strMealThumb": "https://www.themealdb.com/images/category/beef.png",
+      "strCategoryDescription": "blabla",
+      "strYoutube": ""
+    },
+    {
+      "idMeal": "2",
+      "strMeal": "blabla",
+      "strCategory": "blabla",
+      "strArea": "French",
+      "strMealThumb": "https://www.themealdb.com/images/category/beef.png",
+      "strCategoryDescription": "blabla",
+      "strYoutube": ""
+    },
+    {
+      "idMeal": "3",
+      "strMeal": "blabla",
+      "strCategory": "blabla",
+      "strArea": "French",
+      "strMealThumb": "https://www.themealdb.com/images/category/beef.png",
+      "strCategoryDescription": "blabla",
+      "strYoutube": ""
+    }
+  ]
+}

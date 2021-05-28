@@ -1,0 +1,22 @@
+{
+  "name": "api-foodguessr",
+  "version": "1.0.0",
+  "description": "An API to collect food recpies & login + register users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeOne45/api-food-guessr.git"
+  },
+  "author": "Aman (CodeOne45)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeOne45/api-food-guessr/issues"
+  },
+  "homepage": "https://github.com/CodeOne45/api-food-guessr#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
