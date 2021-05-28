@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 //const meals = require("./meals.json");
 var fs = require("fs");
-var meals = fs.readFileSync("meals.json", "utf8");
+var meals = fs.readFileSync("db.json", "utf8");
 
 app.get("/meals", (req, res) => {
   res.status(200).send(meals);
