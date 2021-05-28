@@ -1,6 +1,7 @@
 const express = require("express");
 const app = express();
 const PORT = process.env.PORT || 8080;
+var cors_proxy = require("cors-anywhere");
 //const meals = require("./meals.json");
 var fs = require("fs");
 var meals = fs.readFileSync("db.json", "utf8");
@@ -20,7 +21,6 @@ app.listen(PORT, () => {
   console.log("Server started");
 });
 
-var cors_proxy = require("cors-anywhere");
 cors_proxy
   .createServer({
     originWhitelist: [], // Allow all origins
