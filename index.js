@@ -1,5 +1,6 @@
 const express = require("express");
 const app = express();
+const PORT = process.env.PORT || 8080;
 //const meals = require("./meals.json");
 var fs = require("fs");
 var meals = fs.readFileSync("db.json", "utf8");
@@ -15,6 +16,6 @@ app.get("/meals/random", (req, res) => {
   res.send(data.apiMeal[randIndex]);
 });
 
-app.listen(8080, () => {
+app.listen(PORT, () => {
   console.log("Server started");
 });
