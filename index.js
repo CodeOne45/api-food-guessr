@@ -16,8 +16,9 @@ app.get("/meals", (req, res) => {
 app.get("/meals/random", (req, res) => {
   const data = JSON.parse(meals);
   // Generate random index based on number of keys
-  const randIndex = Math.floor(Math.random() * data.apiMeal.length);
-  res.send(data.apiMeal[randIndex]);
+  const randIndex = Math.floor(Math.random() * data.Meals.length);
+  //res.send(data.Meals[randIndex]);
+  res.json({ meals: [data.Meals[randIndex]] });
 });
 
 app.listen(PORT, () => {
