@@ -17,8 +17,12 @@
   },
   "homepage": "https://github.com/CodeOne45/api-food-guessr#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "cors-anywhere": "^0.4.4",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-jwt": "^6.0.0",
+    "mongoose": "^5.12.12",
+    "rootpath": "^0.1.2"
   }
 }
