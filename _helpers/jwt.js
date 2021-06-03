@@ -13,6 +13,7 @@ function jwt() {
       "/meals/random",
       "/users/authenticate",
       "/users/register",
+      "/users",
     ],
   });
 }

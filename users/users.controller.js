@@ -6,9 +6,9 @@ router.post("/authenticate", authenticate);
 router.post("/register", register);
 router.get("/", getAll);
 router.get("/current", getCurrent);
-router.get("/:id", getById);
-router.put("/:id", update);
-router.delete("/:id", _delete);
+router.get("/:_id", getById);
+router.put("/:_id", update);
+router.delete("/:_id", _delete);
 
 module.exports = router;
 
@@ -27,7 +27,7 @@ function register(req, res, next) {
   userService
     .create(req.body)
     .then(() => res.json({}))
-    .catch((err) => next("[ERROR ON INSERTING DATA] -->" + err));
+    .catch((err) => next(err));
 }
 
 function getAll(req, res, next) {
@@ -46,21 +46,21 @@ function getCurrent(req, res, next) {
 
 function getById(req, res, next) {
   userService
-    .getById(req.params.id)
+    .getById(req.params._id)
     .then((user) => (user ? res.json(user) : res.sendStatus(404)))
     .catch((err) => next(err));
 }
 
 function update(req, res, next) {
   userService
-    .update(req.params.id, req.body)
+    .update(req.params._id, req.body)
     .then(() => res.json({}))
     .catch((err) => next(err));
 }
 
 function _delete(req, res, next) {
   userService
-    .delete(req.params.id)
+    .delete(req.params._id)
     .then(() => res.json({}))
     .catch((err) => next(err));
 }

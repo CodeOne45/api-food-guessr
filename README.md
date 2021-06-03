@@ -9,6 +9,6 @@ Api to collecte food and manage login + register of a user
 
 # Source
 
-https://jasonwatmore.com/post/2018/06/14/nodejs-mongodb-simple-api-for-authentication-registration-and-user-management
-https://github.com/Automattic/mongoose/issues/6879
-https://bezkoder.com/node-js-mongodb-auth-jwt/
+- https://jasonwatmore.com/post/2018/06/14/nodejs-mongodb-simple-api-for-authentication-registration-and-user-management
+- https://github.com/Automattic/mongoose/issues/6879
+- https://bezkoder.com/node-js-mongodb-auth-jwt/
