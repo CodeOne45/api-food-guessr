@@ -2,10 +2,10 @@
   "Meals": [
     {
       "idMeal": "1",
-      "strMeal": "blabla",
+      "strMeal": "Kabuli Palaw",
       "strCategory": "blabla",
-      "strArea": "French",
-      "strMealThumb": "https://www.themealdb.com/images/category/beef.png",
+      "strArea": "Afghanistan",
+      "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Afghan_Palo.jpg/250px-Afghan_Palo.jpg",
       "strCategoryDescription": "blabla",
       "strYoutube": ""
     },
@@ -20,6 +20,15 @@
     },
     {
       "idMeal": "3",
+      "strMeal": "blabla",
+      "strCategory": "blabla",
+      "strArea": "French",
+      "strMealThumb": "https://www.themealdb.com/images/category/beef.png",
+      "strCategoryDescription": "blabla",
+      "strYoutube": ""
+    },
+    {
+      "idMeal": "4",
       "strMeal": "blabla",
       "strCategory": "blabla",
       "strArea": "French",
