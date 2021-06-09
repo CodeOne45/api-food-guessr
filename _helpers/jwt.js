@@ -14,6 +14,7 @@ function jwt() {
       "/users/authenticate",
       "/users/register",
       "/users",
+      "/current",
     ],
   });
 }
