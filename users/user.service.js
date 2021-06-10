@@ -42,7 +42,16 @@ async function create(userParam) {
   const user = new User(userParam);
   // save user
   await user.save();
-  return authenticate(userParam.username);
+  const user = await User.findOne({ username });
+  if (user) {
+    const token = jwt.sign({ sub: user._id }, config.secret, {
+      expiresIn: "7d",
+    });
+    return {
+      ...user.toJSON(),
+      token,
+    };
+  }
 }
 
 async function update(id, userParam) {
