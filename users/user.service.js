@@ -40,14 +40,8 @@ async function create(userParam) {
     throw 'Username "' + userParam.username + '" is already taken';
   }
   const user = new User(userParam);
-  // hash password
-  if (userParam.password) {
-    user.hash = bcrypt.hashSync(userParam.password, 10);
-  }
-
   // save user
   await user.save();
-  authenticate(userParam.username);
 }
 
 async function update(id, userParam) {
