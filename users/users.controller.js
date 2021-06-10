@@ -24,17 +24,9 @@ function authenticate(req, res, next) {
 }
 
 function register(req, res, next) {
-  await userService
-    .create(req.body)
-    .then(() => res.json({}))
-    .catch((err) => next(err));
   userService
-    .authenticate(req.body)
-    .then((user) =>
-      user
-        ? res.json(user)
-        : res.status(400).json({ message: "Username or password is incorrect" })
-    )
+    .create(req.body)
+    .then((user) => res.json({ user }))
     .catch((err) => next(err));
 }
 
