@@ -11,7 +11,6 @@ function jwt() {
       // public routes that don't require authentication
       "/meals",
       "/meals/random",
-      "/users/authenticate",
       "/users/register",
       "/users",
       "/:_id",

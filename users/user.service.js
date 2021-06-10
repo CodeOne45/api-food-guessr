@@ -13,7 +13,7 @@ module.exports = {
   delete: _delete,
 };
 
-async function authenticate({ username }) {
+/*async function authenticate({ username }) {
   const user = await User.findOne({ username });
   if (user) {
     const token = jwt.sign({ sub: user._id }, config.secret, {
@@ -24,7 +24,7 @@ async function authenticate({ username }) {
       token,
     };
   }
-}
+}*/
 
 async function getAll() {
   return await User.find();
