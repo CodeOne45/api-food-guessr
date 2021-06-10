@@ -25,22 +25,9 @@ function authenticate(req, res, next) {
 
 function register(req, res, next) {
   userService
-    .create(req.body)
+    .create(req.body).authenticate(req.body)
     .then(() => res.json({}))
     .catch((err) => next(err));
-  userService
-    .authenticate(req.body)
-    .then((user) =>
-      user
-        ? res.json(user)
-        : res
-            .status(400)
-            .json({
-              message: "Username or password is incorrect" + { user } + "----",
-            })
-    )
-    .catch((err) => next(err));
-}
 
 function getAll(req, res, next) {
   userService
