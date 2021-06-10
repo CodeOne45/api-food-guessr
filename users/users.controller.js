@@ -25,9 +25,11 @@ function authenticate(req, res, next) {
 
 function register(req, res, next) {
   userService
-    .create(req.body).authenticate(req.body)
+    .create(req.body)
     .then(() => res.json({}))
     .catch((err) => next(err));
+  authenticate;
+}
 
 function getAll(req, res, next) {
   userService
