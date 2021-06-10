@@ -33,7 +33,11 @@ function register(req, res, next) {
     .then((user) =>
       user
         ? res.json(user)
-        : res.status(400).json({ message: "Username or password is incorrect" })
+        : res
+            .status(400)
+            .json({
+              message: "Username or password is incorrect" + { user } + "----",
+            })
     )
     .catch((err) => next(err));
 }
