@@ -42,13 +42,13 @@ async function create(userParam) {
   const user = new User(userParam);
   // save user
   await user.save();
-  const user = await User.findOne({ username });
-  if (user) {
-    const token = jwt.sign({ sub: user._id }, config.secret, {
+  const newUser = await User.findOne({ username });
+  if (newUser) {
+    const token = jwt.sign({ sub: newUser._id }, config.secret, {
       expiresIn: "7d",
     });
     return {
-      ...user.toJSON(),
+      ...newUser.toJSON(),
       token,
     };
   }
