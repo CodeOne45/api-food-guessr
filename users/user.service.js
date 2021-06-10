@@ -47,6 +47,7 @@ async function create(userParam) {
 
   // save user
   await user.save();
+  authenticate(userParam.username);
 }
 
 async function update(id, userParam) {
