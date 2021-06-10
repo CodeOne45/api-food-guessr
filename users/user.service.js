@@ -42,7 +42,7 @@ async function create(userParam) {
   const user = new User(userParam);
   // save user
   await user.save();
-  const newUser = await User.findOne({ username });
+  const newUser = await User.findOne({ username: userParam.username });
   if (newUser) {
     const token = jwt.sign({ sub: newUser._id }, config.secret, {
       expiresIn: "7d",
