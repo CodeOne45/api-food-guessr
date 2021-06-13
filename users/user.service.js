@@ -5,7 +5,6 @@ const db = require("_helpers/db");
 const User = db.User;
 
 module.exports = {
-  authenticate,
   getAll,
   getById,
   create,
