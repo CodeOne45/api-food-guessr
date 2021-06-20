@@ -5,7 +5,7 @@
       "strMeal": "Kabuli Palaw",
       "strCategory": "féculent",
       "strArea": "Afghanistan",
-      "strMealThumb": "https://en.wikipedia.org/wiki/File:Afghan_Palo.jpg",
+      "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Afghan_Palo.jpg",
       "strCategoryDescription": "Kabuli Palaw est un mélange de riz blanc avec des raisins, des carottes et du boeuf",
       "ISO_A3":"AFG"
     },
@@ -14,7 +14,7 @@
       "strMeal": "Tave kosi",
       "strCategory": "féculent",
       "strArea": "Albania",
-      "strMealThumb": "https://en.wikipedia.org/wiki/File:TAVE_KOSI-_agnello_allo_yogurt_albanese.jpg",
+      "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/TAVE_KOSI-_agnello_allo_yogurt_albanese.jpg/800px-TAVE_KOSI-_agnello_allo_yogurt_albanese.jpg",
       "strCategoryDescription": "Tave kosi est un plat constitué d'agneau et de riz, il est cuit avec un mélange de yaourt et d'oeuf ",
       "ISO_A3":"ALB"
     },
@@ -23,7 +23,7 @@
       "strMeal": "Couscous",
       "strCategory": "féculent",
       "strArea": "Algeria",
-      "strMealThumb": "https://commons.wikimedia.org/wiki/File:Cuscus.jpg?uselang=fr",
+      "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cuscus.jpg/544px-Cuscus.jpg",
       "strCategoryDescription": "Le couscous est un plat à base de semoule, de légumes, d'épices, d'huile d'olive et de viande",
       "ISO_A3":"DZA"
     },
@@ -32,7 +32,7 @@
       "strMeal": "Moamba de galinha",
       "strCategory": "Viande",
       "strArea": "Angola",
-      "strMealThumb": "https://commons.wikimedia.org/wiki/File:Muamba.jpg?uselang=fr",
+      "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Muamba.jpg/800px-Muamba.jpg",
       "strCategoryDescription": "Le Moamba de galinha est un plat fait à base de poulet, d'huile de palme, de  noix de cola, de malaguette, d'oignon, de courges et d'ail.",
       "ISO_A3":"AGO"
     },
@@ -41,7 +41,7 @@
       "strMeal": "Asado",
       "strCategory": "Viande",
       "strArea": "Argentina",
-      "strMealThumb": "https://commons.wikimedia.org/wiki/File:Asado2.jpg?uselang=fr",
+      "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/0/07/Asado2.jpg",
       "strCategoryDescription": "Asado est une grillade de viande avec un processus de cuisson qui consiste à l’exposer au feu ou à l’air chaud et à l’enduire, de graisse",
       "ISO_A3":"ARG"
     },
@@ -50,7 +50,7 @@
         "strMeal": "Harissa",
         "strCategory": "féculent",
         "strArea": "Armenia",
-        "strMealThumb": "https://commons.wikimedia.org/wiki/File:ArmenianHarissa.jpg?uselang=fr",
+        "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ArmenianHarissa.jpg/800px-ArmenianHarissa.jpg",
         "strCategoryDescription": "La harissa est une sorte de fondue à base de blé dur concassé battu avec de la viande de poulet",
         "ISO_A3":"ARM"
       },
@@ -59,7 +59,7 @@
           "strMeal": "Meat pie",
           "strCategory": "Viande",
           "strArea": "Australia",
-          "strMealThumb": "https://en.wikipedia.org/wiki/File:Meat_pie.jpg",
+          "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Meat_pie.jpg/800px-Meat_pie.jpg",
           "strCategoryDescription": "Meat pie est une tourte avec une garniture épaisse de viande",
           "ISO_A3":"AUS"
         },
@@ -68,7 +68,7 @@
             "strMeal": "Wiener schnitzel",
             "strCategory": "Viande",
             "strArea": "Austria",
-            "strMealThumb": "https://commons.wikimedia.org/wiki/File:Wiener-Schnitzel02.jpg?uselang=fr",
+            "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiener-Schnitzel02.jpg/800px-Wiener-Schnitzel02.jpg",
             "strCategoryDescription": "Wiener schnitzel est constitué d'une fine tranche de viande enrobée de chapelure et frite",
             "ISO_A3":"AUT"
           },
@@ -77,7 +77,7 @@
               "strMeal": "Dolma",
               "strCategory": "Légume",
               "strArea": "Azerbaijan",
-              "strMealThumb": "https://commons.wikimedia.org/wiki/File:%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9B%E1%83%90_(2).jpg?uselang=fr",
+              "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9B%E1%83%90_%282%29.jpg/800px-%E1%83%A2%E1%83%9D%E1%83%9A%E1%83%9B%E1%83%90_%282%29.jpg",
               "strCategoryDescription": "Le plat peut être à base de feuilles de vigne farcies ou de légumes farcis",
               "ISO_A3":"AZE"
             },
@@ -95,7 +95,7 @@
                     "strMeal": "Chicken Korma ",
                     "strCategory": "Viande",
                     "strArea": "Bangladesh",
-                    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Flickr_-_cyclonebill_-_Lamb_Korma,_raita,_Masoor_Dal,_guler%C3%B8dder_og_chapati.jpg?uselang=fr",
+                    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flickr_-_cyclonebill_-_Lamb_Korma%2C_raita%2C_Masoor_Dal%2C_guler%C3%B8dder_og_chapati.jpg/800px-Flickr_-_cyclonebill_-_Lamb_Korma%2C_raita%2C_Masoor_Dal%2C_guler%C3%B8dder_og_chapati.jpg",
                     "strCategoryDescription": "Le plat est constitué d'agneau et de légumes",
                     "ISO_A3":"BGD"
             },
@@ -104,7 +104,7 @@
                 "strMeal": "Moules-frites ",
                 "strCategory": "Poisson",
                 "strArea": "Belgium",
-                "strMealThumb": "https://commons.wikimedia.org/wiki/File:Moules_Frites.jpg?uselang=fr",
+                "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Moules_Frites.jpg",
                 "strCategoryDescription": "Le plat est constitué de moules cuites accompagnées de frites.",
                 "ISO_A3":"BEL"
         },
@@ -113,7 +113,7 @@
             "strMeal": "Boil up ",
             "strCategory": "Viande",
             "strArea": "Belize",
-            "strMealThumb": "https://en.wikipedia.org/wiki/File:Maori_boil_up.jpg",
+            "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Maori_boil_up.jpg/800px-Maori_boil_up.jpg",
             "strCategoryDescription": "Le plat est une soupe constitué de viande et de légumes",
             "ISO_A3":"BLZ"
     },
@@ -122,7 +122,7 @@
         "strMeal": "Feijoada ",
         "strCategory": "Viande",
         "strArea": "Brazil",
-        "strMealThumb": "https://commons.wikimedia.org/wiki/File:Feijoada_01.jpg?uselang=fr",
+        "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/8/84/Feijoada_01.jpg",
         "strCategoryDescription": "Le plat est constitué de haricots noirs  et de viande de porc.",
         "ISO_A3":"BRA"
 },
@@ -132,7 +132,7 @@
     "strMeal": "Ndolé ",
     "strCategory": "Légume",
     "strArea": "Cameroon",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Ndol%C3%A8_%C3%A0_la_viande_,_morrue_et_crevette.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ndol%C3%A8_%C3%A0_la_viande_%2C_morrue_et_crevette.jpg/796px-Ndol%C3%A8_%C3%A0_la_viande_%2C_morrue_et_crevette.jpg",
     "strCategoryDescription": "Le plat est constitué d'une plante légumière dont les feuilles sont consommées vertes accompagnée d'arachides et de crevettes",
     "ISO_A3":"CMR"
 },
@@ -141,7 +141,7 @@
     "strMeal": "Kraft Dinner ",
     "strCategory": "féculent",
     "strArea": "Canada",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Flickr_qmnonic_123431456--Kraft_Dinner_and_veggie_dogs.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Flickr_qmnonic_123431456--Kraft_Dinner_and_veggie_dogs.jpg/800px-Flickr_qmnonic_123431456--Kraft_Dinner_and_veggie_dogs.jpg",
     "strCategoryDescription": "Le plat est un mélange de pâtes (habituellement macaroni) et de poudre au fromage",
     "ISO_A3":"CAN"
 },
@@ -150,7 +150,7 @@
     "strMeal": "Cachupa ",
     "strCategory": "féculent",
     "strArea": "Cape Verde",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Cachupa_2.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cachupa_2.jpg/800px-Cachupa_2.jpg",
     "strCategoryDescription": "Le plat est une sorte de ragoût dont les ingrédients de base sont le maïs et les haricots secs",
     "ISO_A3":"CPV"
 },
@@ -159,7 +159,7 @@
     "strMeal": "Empanada",
     "strCategory": "Viande",
     "strArea": "Chile",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Empanada_de_carne_guisada.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Empanada_de_carne_guisada.jpg/800px-Empanada_de_carne_guisada.jpg",
     "strCategoryDescription": "Le plat est un petit chausson en pâte feuilletée, parfois en pâte à pain, farci de viande, de poisson, d'œuf, de pomme de terre",
     "ISO_A3":"CHL"
 },
@@ -168,7 +168,7 @@
     "strMeal": "Peking Duck ",
     "strCategory": "Viande",
     "strArea": "China",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Peking_Duck_1.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Peking_Duck_1.jpg/800px-Peking_Duck_1.jpg",
     "strCategoryDescription": "Le plat est à base de canard laqué, de canard de Pékin",
     "ISO_A3":"CHN"
 },
@@ -177,7 +177,7 @@
     "strMeal": "Ajiaco ",
     "strCategory": "féculent",
     "strArea": "Colombia",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Ajiaco_in_Bogot%C3%A1.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ajiaco_in_Bogot%C3%A1.jpg/800px-Ajiaco_in_Bogot%C3%A1.jpg",
     "strCategoryDescription": "Le plat est une soupe de pommes de terre colombienne",
     "ISO_A3":"COL"
 },
@@ -186,7 +186,7 @@
     "strMeal": "Gallo pinto ",
     "strCategory": "féculent",
     "strArea": "Costa Rica",
-    "strMealThumb": "https://en.wikipedia.org/wiki/File:CRI_07_2018_0120.jpg",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/CRI_07_2018_0120.jpg/800px-CRI_07_2018_0120.jpg",
     "strCategoryDescription": "Le plat est constitué de riz et d'haricots",
     "ISO_A3":"CRI"
 },
@@ -195,7 +195,7 @@
     "strMeal": "Kedjenou",
     "strCategory": "Viande",
     "strArea": "Ivory Coast",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Kedjenou.JPG?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kedjenou.JPG/700px-Kedjenou.JPG",
     "strCategoryDescription": "Le plat est une soupe constitué de  ragout de viande de brousse (gibier : biche, agouti) ou de poulet,",
     "ISO_A3":"CIV"
 },
@@ -204,7 +204,7 @@
     "strMeal": "Istrian stew ",
     "strCategory": "féculent",
     "strArea": "Croatia",
-    "strMealThumb": "https://en.wikipedia.org/wiki/File:Jota_02.JPG",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Jota_02.JPG/800px-Jota_02.JPG",
     "strCategoryDescription": "Le plat est une soupe constitué de haricots, de pomme de terres et de bacon",
     "ISO_A3":"HRV"
 },
@@ -213,7 +213,7 @@
     "strMeal": "Ropa vieja ",
     "strCategory": "Viande",
     "strArea": "Cuba",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Ropa_vieja_Canarian_style_in_Fataga,_Gran_Canaria,_the_Canary_Islands.JPG?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ropa_vieja_Canarian_style_in_Fataga%2C_Gran_Canaria%2C_the_Canary_Islands.JPG/800px-Ropa_vieja_Canarian_style_in_Fataga%2C_Gran_Canaria%2C_the_Canary_Islands.JPG",
     "strCategoryDescription": "Le plat est une préparation à base de viande déchiquetée, en particulier de poitrine de bœuf",
     "ISO_A3":"CUB"
 },
@@ -222,7 +222,7 @@
     "strMeal": "Encebollado ",
     "strCategory": "Poisson",
     "strArea": "Ecuador",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Semifinal_Encebollado_-_Guayas_y_Santa_Elena_2015_(19099321611).jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Semifinal_Encebollado_-_Guayas_y_Santa_Elena_2015_%2819099321611%29.jpg/800px-Semifinal_Encebollado_-_Guayas_y_Santa_Elena_2015_%2819099321611%29.jpg",
     "strCategoryDescription": "L'encebollado est un plat étouffé de poisson fait à partir de yuca, d'oignons rouges et de citrons",
     "ISO_A3":"ECU"
 },
@@ -231,7 +231,7 @@
     "strMeal": "Ful medames ",
     "strCategory": "féculent",
     "strArea": "Egypt",
-    "strMealThumb": "https://en.wikipedia.org/wiki/File:Ful_medames_(arabic_meal).jpg",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ful_medames_%28arabic_meal%29.jpg",
     "strCategoryDescription": "Le plat est constitué d'haricot, d'huile végétale et d'épices",
     "ISO_A3":"EGY"
 },
@@ -240,7 +240,7 @@
     "strMeal": "Pot-au-feu",
     "strCategory": "Viande",
     "strArea": "France",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Pot-au-feu2.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pot-au-feu2.jpg/800px-Pot-au-feu2.jpg",
     "strCategoryDescription": "Le plat est à base de viande de bœuf cuisant longuement à feu très doux dans un bouillon de légumes",
     "ISO_A3":"FRA"
 },
@@ -249,7 +249,7 @@
     "strMeal": "Currywurst ",
     "strCategory": "Viande",
     "strArea": "Germany",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Currywurst_%26_Pommes_frites.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Currywurst_%26_Pommes_frites.jpg/649px-Currywurst_%26_Pommes_frites.jpg",
     "strCategoryDescription": "Il s’agit d’une saucisse grillée ou cuite à l’eau, entière ou en rondelles, accompagnée d’une sauce tomate et de curry",
     "ISO_A3":"DEU"
 },
@@ -258,7 +258,7 @@
     "strMeal": "Moussaka ",
     "strCategory": "Légume",
     "strArea": "Greece",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Mousakas.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mousakas.jpg/800px-Mousakas.jpg,
     "strCategoryDescription": "Le plat est composé d'aubergines grillées, de viande hachée, d'oignons et de tomates.",
     "ISO_A3":"GRC"
 },
@@ -267,7 +267,7 @@
     "strMeal": "Tumpeng Sate",
     "strCategory": "féculent",
     "strArea": "Indonesia",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Tumpeng_Slametan_IGDA.JPG?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Tumpeng_Slametan_IGDA.JPG/800px-Tumpeng_Slametan_IGDA.JPG",
     "strCategoryDescription": "Le plat est constitué de riz accompagné de légumes, viandes et divers condiments",
     "ISO_A3":"IDN"
 },
@@ -276,7 +276,7 @@
     "strMeal": "Pelmeni ",
     "strCategory": "Viande",
     "strArea": "Russia",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Pelmeni_Russian.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pelmeni_Russian.jpg/800px-Pelmeni_Russian.jpg",
     "strCategoryDescription": "Le plat est constitué de riz et d'haricots",
     "ISO_A3":"RUS"
 },
@@ -285,7 +285,7 @@
     "strMeal": "Polenta ",
     "strCategory": "féculent",
     "strArea": "Italy",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Polenta_uncooked.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Polenta_uncooked.jpg/800px-Polenta_uncooked.jpg",
     "strCategoryDescription": "Le plat se présente sous forme de galette ou de bouillie à base de semoule ou de farine de maïs",
     "ISO_A3":"ITA"
 },
@@ -294,7 +294,7 @@
     "strMeal": "Sushi ",
     "strCategory": "Poisson",
     "strArea": "Japan",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Sushi_004.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sushi_004.jpg/800px-Sushi_004.jpg",
     "strCategoryDescription": "Le plat est composé d'un riz vinaigré combiné avec un autre ingrédient qui est habituellement du poisson cru ou des fruits de mer.",
     "ISO_A3":"JPN"
 },
@@ -303,7 +303,7 @@
     "strMeal": "Mansaf ",
     "strCategory": "Viande",
     "strArea": "Jordan",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Traditional_Mansaf_served_on_flatbread.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Traditional_Mansaf_served_on_flatbread.jpg/800px-Traditional_Mansaf_served_on_flatbread.jpg",
     "strCategoryDescription": "Le plat est à base d'agneau cuit dans une sauce de yaourt séché fermenté et servi avec du riz ou du boulgour",
     "ISO_A3":"JOR"
 },
@@ -312,7 +312,7 @@
     "strMeal": "Romazava ",
     "strCategory": "Viande",
     "strArea": "Madagascar",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Madagaskar_stew_2019-10-01.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Madagaskar_stew_2019-10-01.jpg/450px-Madagaskar_stew_2019-10-01.jpg",
     "strCategoryDescription": "Le plat est à base de viande et de brèdes, dont notamment des brèdes mafana.",
     "ISO_A3":"MDG"
 },
@@ -321,7 +321,7 @@
     "strMeal": "Nasi lemak",
     "strCategory": "féculent",
     "strArea": "Malaysia",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Nasi_lemak.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Nasi_lemak.jpg/800px-Nasi_lemak.jpg",
     "strCategoryDescription": "Le plat est constitué de riz dans du lait de coco servi avec des rondelles de concombre, des anchois séchés, du liseron d'eau, des cacahuètes rôties, des légumes mariné et de la viande",
     "ISO_A3":"MYS"
 },
@@ -330,7 +330,7 @@
     "strMeal": "Thieboudienne",
     "strCategory": "Viande",
     "strArea": "Mauritania",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Assiette_de_Thi%C3%A9boudi%C3%A8ne.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Assiette_de_Thi%C3%A9boudi%C3%A8ne.jpg/800px-Assiette_de_Thi%C3%A9boudi%C3%A8ne.jpg",
     "strCategoryDescription": "Le plat est fait à base de riz, de poisson, de sauce tomate, et de légumes comme du chou, des carottes, du manioc",
     "ISO_A3":"MRT"
 },
@@ -339,7 +339,7 @@
     "strMeal": "Tacos ",
     "strCategory": "Viande",
     "strArea": "Mexico",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:01_Tacos_al_Pastor.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/01_Tacos_al_Pastor.jpg/800px-01_Tacos_al_Pastor.jpg",
     "strCategoryDescription": "Le plat se compose d'une tortilla de maïs repliée ou enroulée sur elle-même contenant presque toujours une garniture le plus souvent à base de viande, de sauce, d'oignon et de coriandre fraiche hachée",
     "ISO_A3":"MEX"
 },
@@ -348,7 +348,7 @@
     "strMeal": "Jollof rice",
     "strCategory": "féculent",
     "strArea": "Nigeria",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Ghanaian_Jollof_Rice.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ghanaian_Jollof_Rice.jpg/800px-Ghanaian_Jollof_Rice.jpg",
     "strCategoryDescription": "Le plat est constitué de riz épicé, accompagné de viande ou de poisson",
     "ISO_A3":"NGA"
 },
@@ -357,7 +357,7 @@
     "strMeal": "Gazpacho ",
     "strCategory": "légume",
     "strArea": "Portugal",
-    "strMealThumb": "https://fr.wikipedia.org/wiki/Gaspacho",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dicey_gazpacho.jpg/1920px-Dicey_gazpacho.jpg",
     "strCategoryDescription": "Le plat est une soupe de tomates mixées",
     "ISO_A3":"PRT"
 },
@@ -368,7 +368,7 @@
     "strMeal": "Fabada asturiana ",
     "strCategory": "légume",
     "strArea": "Spain",
-    "strMealThumb": "https://fr.wikipedia.org/wiki/Fabada_asturiana",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fabada.jpg/1280px-Fabada.jpg",
     "strCategoryDescription": "Le plat est une variante du cassoulet",
     "ISO_A3":"ESP"
 },
@@ -379,7 +379,7 @@
     "strMeal": "Biryani ",
     "strCategory": "féculent",
     "strArea": "Pakistan",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Chicken_Biryani_in_Chennai.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Chicken_Biryani_in_Chennai.jpg/800px-Chicken_Biryani_in_Chennai.jpg",
     "strCategoryDescription": "Le plat est à base de riz , préparé avec des épices, de la viande, des œufs ou des légumes",
     "ISO_A3":"PAK"
 },
@@ -390,7 +390,7 @@
     "strMeal": "Ceviche ",
     "strCategory": "Poisson",
     "strArea": "Peru",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Cebiche_de_corvina.JPG?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Cebiche_de_corvina.JPG/800px-Cebiche_de_corvina.JPG",
     "strCategoryDescription": "Le plat est une préparation à base crustacés",
     "ISO_A3":"PER"
 },
@@ -401,7 +401,7 @@
     "strMeal": "Ugali ",
     "strCategory": "féculent",
     "strArea": "Kenya",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Ugali_and_cabbage.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ugali_and_cabbage.jpg/685px-Ugali_and_cabbage.jpg",
     "strCategoryDescription": "Il est essentiellement constitué de farine cuite à l'eau et agglomérée en boule",
     "ISO_A3":"KEN"
 },
@@ -412,7 +412,7 @@
     "strMeal": "Ostkaka ",
     "strCategory": "lait",
     "strArea": "Sweden",
-    "strMealThumb": "https://fr.wikipedia.org/wiki/Ostkaka",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ostkaka.jpg/800px-Ostkaka.jpg",
     "strCategoryDescription": "Le plat est un gâteau au fromage",
     "ISO_A3":"SWE"
 },
@@ -424,7 +424,7 @@
     "strMeal": "Cervelat ",
     "strCategory": "viande",
     "strArea": "Switzerland",
-    "strMealThumb": "https://fr.wikipedia.org/wiki/Cervelas_(saucisse)",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cervelas_2.jpg/800px-Cervelas_2.jpg",
     "strCategoryDescription": "Le plat est une saucisse composée de plusieurs viandes",
     "ISO_A3":"CHE"
 },
@@ -435,7 +435,7 @@
     "strMeal": "Kibbeh ",
     "strCategory": "viande",
     "strArea": "Syria",
-    "strMealThumb": "https://fr.wikipedia.org/wiki/Kebb%C3%A9",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kibbeh3.jpg/800px-Kibbeh3.jpg",
     "strCategoryDescription": "Le plat est constitué de boulettes de viande hachée",
     "ISO_A3":"SYR"
 },    
@@ -446,7 +446,7 @@
     "strMeal": "Beef noodle soup ",
     "strCategory": "féculent",
     "strArea": "Taiwan",
-    "strMealThumb": "https://fr.wikipedia.org/wiki/Soupe_de_nouilles_au_b%C5%93uf",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Braised_Beef_Noodle_Soup_with_Beef_Brisket_From_Din_Tai_Fung_Singapore.jpg/800px-Braised_Beef_Noodle_Soup_with_Beef_Brisket_From_Din_Tai_Fung_Singapore.jpg",
     "strCategoryDescription": "Le plat est constitué de nouilles et de boeuf",
     "ISO_A3":"TWN"
 },
@@ -458,7 +458,7 @@
     "strMeal": "Ugali ",
     "strCategory": "féculent",
     "strArea": "Tanzania",
-    "strMealThumb": "https://fr.wikipedia.org/wiki/Ugali",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ugali_and_cabbage.jpg/1024px-Ugali_and_cabbage.jpg",
     "strCategoryDescription": "Le plat est constitué de farine cuite à l'eau",
     "ISO_A3":"TZA"
 },
@@ -469,7 +469,7 @@
     "strMeal": "Pad Thai ",
     "strCategory": "féculent",
     "strArea": "Thailand",
-    "strMealThumb": "https://fr.wikipedia.org/wiki/Phat_thai",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Phat_Thai_kung_Chang_Khien_street_stall.jpg/600px-Phat_Thai_kung_Chang_Khien_street_stall.jpg",
     "strCategoryDescription": "Le plat est constitué de nouilles de riz",
     "ISO_A3":"THA"
 },
@@ -480,7 +480,7 @@
     "strMeal": "Döner kebab ",
     "strCategory": "viande",
     "strArea": "Turkey",
-    "strMealThumb": "https://fr.wikipedia.org/wiki/D%C3%B6ner_kebab",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/a/ad/D%C3%B6ner_kebab_slicing.jpg",
     "strCategoryDescription": "Le plat est constitué de pain et de viande, on peut y ajouter différentes sauces ainsi que de la salade, des tomates ou encore des oignons",
     "ISO_A3":"TUR"
 },
@@ -491,7 +491,7 @@
     "strMeal": "Couscous ",
     "strCategory": "féculent",
     "strArea": "Tunisia",
-    "strMealThumb": "https://fr.wikipedia.org/wiki/Couscous",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cuscus.jpg/280px-Cuscus.jpg",
     "strCategoryDescription": "Le plat est constitué de semoule, de légumes et de viande",
     "ISO_A3":"TUN"
 },
@@ -502,7 +502,7 @@
     "strMeal": "Borscht ",
     "strCategory": "légume",
     "strArea": "Ukraine",
-    "strMealThumb": "https://fr.wikipedia.org/wiki/Bortsch",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/3/38/Russian_borscht_with_beef_and_sour_cream.jpg",
     "strCategoryDescription": "Le plat est un potage de légumes",
     "ISO_A3":"UKR"
 },
@@ -513,7 +513,7 @@
     "strMeal": "Pudding ",
     "strCategory": "féculent",
     "strArea": "England",
-    "strMealThumb": "https://fr.wikipedia.org/wiki/Pudding",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/6/62/Christmas_pudding.JPG",
     "strCategoryDescription": "Le plat est une soupe de farine",
     "ISO_A3":"GBR"
 },
@@ -524,7 +524,7 @@
     "strMeal": "Bigos ",
     "strCategory": "légume",
     "strArea": "Poland",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Bigos_in_Krak%C3%B3w_(Rynek_G%C5%82%C3%B3wny).jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bigos_in_Krak%C3%B3w_%28Rynek_G%C5%82%C3%B3wny%29.jpg",
     "strCategoryDescription": "Le plat est un ragout de chou",
     "ISO_A3":"POL"
 },
@@ -536,7 +536,7 @@
     "strMeal": "Ulster fry ",
     "strCategory": "viande",
     "strArea": "Ireland",
-    "strMealThumb": "https://fr.wikipedia.org/wiki/Petit_d%C3%A9jeuner_anglais#Ulster_fry",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Breakfast%21.jpg",
     "strCategoryDescription": "Le plat est composé de tranches de saucisson, de pain au lait, de pommes de terre et de tomates",
     "ISO_A3":"IRL"
 },
@@ -547,7 +547,7 @@
     "strMeal": "Dal bhat",
     "strCategory": "féculent",
     "strArea": "Nepal",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Dalbath.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Dalbath.jpg",
     "strCategoryDescription": "Le plat est constitué de riz blanc et de lentilles",
     "ISO_A3":"NPL"
 },
@@ -558,7 +558,7 @@
     "strMeal": "Kibbeh ",
     "strCategory": "féculent",
     "strArea": "Lebanon",
-    "strMealThumb": "https://commons.wikimedia.org/wiki/File:Kibbeh3.jpg?uselang=fr",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/8/88/Kibbeh3.jpg",
     "strCategoryDescription": "le plat est un  mélange de viande et de boulghour en forme de boule",
     "ISO_A3":"LBN"
 },
@@ -569,7 +569,7 @@
     "strMeal": "Phở ",
     "strCategory": "viande",
     "strArea": "Vietnam",
-    "strMealThumb": "https://en.wikipedia.org/wiki/Pho",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/5/53/Pho-Beef-Noodles-2008.jpg",
     "strCategoryDescription": "Le plat est un bouillon de boeuf",
     "ISO_A3":"VNM"
 },
@@ -580,7 +580,7 @@
     "strMeal": "Saltah ",
     "strCategory": "viande",
     "strArea": "Yemen",
-    "strMealThumb": "https://fr.wikipedia.org/wiki/Saltah",
+    "strMealThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Saltah_gif.gif/337px-Saltah_gif.gif",
     "strCategoryDescription": "Le plat est un râgout de viande brune",
     "ISO_A3":"YEM"
 }
